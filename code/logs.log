@@ -682,3 +682,11 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2024-05-09 23:07:11,227:WARNING:c:\Users\Anderson\miniconda3\envs\ENGENHARIA_MACHINE_LEARNING_V2\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 
+2024-05-10 17:09:08,595:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-10 17:09:08,626:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-10 17:09:08,626:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-10 17:09:08,627:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.

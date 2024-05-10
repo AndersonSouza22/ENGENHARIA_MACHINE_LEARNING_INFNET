@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anderson/Desktop/REDES_NEURAIS/ENGENHARIA_V2/code/mlruns/0/1ee5f08c7f7b4a9db8526cc82c3a1d16/artifacts
+end_time: 1715372521066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ee5f08c7f7b4a9db8526cc82c3a1d16
+run_name: PipelineAplicacao
+run_uuid: 1ee5f08c7f7b4a9db8526cc82c3a1d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715372520950
+status: 4
+tags: []
+user_id: Anderson
