@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anderson/Desktop/REDES_NEURAIS/ENGENHARIA_V2/code/mlruns/185926384695126820/68f4a37792114a47ad04181bf5a710e7/artifacts
+end_time: 1715300422273
+entry_point_name: ''
+experiment_id: '185926384695126820'
+lifecycle_stage: active
+run_id: 68f4a37792114a47ad04181bf5a710e7
+run_name: PreparacaoDados
+run_uuid: 68f4a37792114a47ad04181bf5a710e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715300419314
+status: 3
+tags: []
+user_id: Anderson

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anderson/Desktop/REDES_NEURAIS/ENGENHARIA_V2/code/mlruns/216971763806645027/4dbe79efd23f4d4984b0522e3ad0bd46/artifacts
+end_time: 1715300615310
+entry_point_name: ''
+experiment_id: '216971763806645027'
+lifecycle_stage: active
+run_id: 4dbe79efd23f4d4984b0522e3ad0bd46
+run_name: MODELOBOM
+run_uuid: 4dbe79efd23f4d4984b0522e3ad0bd46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715300584163
+status: 3
+tags: []
+user_id: Anderson

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anderson/Desktop/REDES_NEURAIS/ENGENHARIA_V2/code/mlruns/216971763806645027/3b86b30244174b6a80720aeca92f17f1/artifacts
+end_time: 1715300583412
+entry_point_name: ''
+experiment_id: '216971763806645027'
+lifecycle_stage: active
+run_id: 3b86b30244174b6a80720aeca92f17f1
+run_name: Logistic Regression
+run_uuid: 3b86b30244174b6a80720aeca92f17f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715300532306
+status: 3
+tags: []
+user_id: Anderson

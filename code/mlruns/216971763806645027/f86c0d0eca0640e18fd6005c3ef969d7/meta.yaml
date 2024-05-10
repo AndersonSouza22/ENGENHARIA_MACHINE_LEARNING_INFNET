@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anderson/Desktop/REDES_NEURAIS/ENGENHARIA_V2/code/mlruns/216971763806645027/f86c0d0eca0640e18fd6005c3ef969d7/artifacts
+end_time: 1715300584146
+entry_point_name: ''
+experiment_id: '216971763806645027'
+lifecycle_stage: active
+run_id: f86c0d0eca0640e18fd6005c3ef969d7
+run_name: Decision Tree
+run_uuid: f86c0d0eca0640e18fd6005c3ef969d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715300583436
+status: 3
+tags: []
+user_id: Anderson
